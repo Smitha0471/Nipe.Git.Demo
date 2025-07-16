@@ -1,2 +1,2 @@
 print('hello, world!-')
-print('Hey ,I am in Lab 02 today')
+print('Hey ,I am in Lab 02')
