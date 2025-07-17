@@ -15,3 +15,9 @@
 - git status
 - git blame sample.py
 - git log --oneline --graph
+
+# Branching
+- git branch 
+- git branch branch-name("my-first-branch-is-here")
+- git switch branch-name("my-second-branch-is-here")
+- git merge source-branch(Make sure you're on the destination branch)
